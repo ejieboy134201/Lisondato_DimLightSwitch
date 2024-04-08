@@ -3,6 +3,7 @@
 Light Dimmer Switch Control
 
 Overview
+
 This Python program simulates a light dimmer switch with five levels of brightness: Off (0%), Low (25%), Medium (50%), High (75%), and Maximum (100%). It allows the user to adjust the light level and provides options to continue adjusting or exit the program.
 
 Usage Instructions
@@ -30,7 +31,9 @@ Usage Instructions
 
 
 Notes
+
 -The program ensures that only valid inputs are accepted and provides clear instructions throughout the interaction.
+
 -You can easily customize the program by modifying the adjust_light function to add more functionality or adjust the behavior of the light control.
 
 Enjoy controlling your virtual light dimmer switch!
